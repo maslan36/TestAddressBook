@@ -14,6 +14,7 @@
 @property (strong, nonatomic) NSArray * arrangedcontacs;
 
 // A loading scrollview.
+//Initial View
 @property (strong, nonatomic) UIActivityIndicatorView *scrollview;
 
 
